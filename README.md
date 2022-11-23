@@ -2,7 +2,7 @@
 Process games reviews on steam with EMR cluster, and load it to amazon s3
 
 ## How to run:
-This is the cluste I used for this project
+This is the cluster I used for this project
 ```
 aws emr create-cluster \
 --name mussa_cluster \
